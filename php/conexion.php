@@ -3,7 +3,7 @@ class mysqlconex
 {
     public function conex()
     {
-        $enlace = mysqli_connect("localhost", "root", "", "mabe");
+        $enlace = mysqli_connect("67.217.34.84", "hlsoluti", "elchaneque2012", "hlsoluti_owm838");
         return $enlace;
 
         /*if(!$enlace){

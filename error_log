@@ -1,0 +1,62 @@
+[01-Jun-2023 16:07:20 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:07:20 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:07:20 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 74
+[01-Jun-2023 16:07:20 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 75
+[01-Jun-2023 16:07:20 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 83
+[01-Jun-2023 16:07:20 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 85
+[01-Jun-2023 16:07:20 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 100
+[01-Jun-2023 16:07:25 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:07:25 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:07:25 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 74
+[01-Jun-2023 16:07:25 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 75
+[01-Jun-2023 16:07:25 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 83
+[01-Jun-2023 16:07:25 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 85
+[01-Jun-2023 16:07:25 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 100
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 74
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 75
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 83
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 85
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 100
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 74
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 75
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 83
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 85
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 100
+[01-Jun-2023 16:19:29 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:19:29 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 74
+[01-Jun-2023 16:19:29 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 75
+[01-Jun-2023 16:19:29 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 83
+[01-Jun-2023 16:19:29 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 85
+[01-Jun-2023 16:19:29 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 100
+[01-Jun-2023 16:28:12 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:28:12 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:28:12 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 74
+[01-Jun-2023 16:28:12 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 75
+[01-Jun-2023 16:28:12 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 83
+[01-Jun-2023 16:28:12 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 85
+[01-Jun-2023 16:28:12 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 100
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 74
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 75
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 83
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 85
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 100
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 74
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 75
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 83
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 85
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 100
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 74
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 75
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 83
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hlsoluti/public_html/app/index.php on line 85
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/index.php on line 100

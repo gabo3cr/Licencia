@@ -25,7 +25,7 @@ class AuthController
         $statement->bindParam("session_id", $sessionId);
         $statement->execute();
         $count = $statement->fetchColumn();
-
+  
         if ($count > 0) {
           return ["status" => "400", "data" => $resultData, "login" => false, "message" => "La clave ya ha sido utilizada en otra sesión"];
         } else {
@@ -35,7 +35,7 @@ class AuthController
           $statement->bindParam("session_id", $sessionId);
           $statement->bindParam("ID", $resultData["ID"]);
           $statement->execute();
-
+  
           return [
             "status" => "Activa",
             "data" => ["clave" => $resultData["clave"]],
@@ -47,6 +47,6 @@ class AuthController
       echo "¡Error!: " . $e->getMessage() . "<br/>";
     }
   }
-
+  
 }
 ?>

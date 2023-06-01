@@ -1,0 +1,2 @@
+[01-Jun-2023 17:14:04 America/Mexico_City] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/database/conexion.php on line 11
+[01-Jun-2023 17:16:45 America/Mexico_City] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/database/conexion.php on line 11

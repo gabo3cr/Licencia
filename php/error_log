@@ -1,0 +1,54 @@
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 11
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 12
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 13
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_stmt_affected_rows() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 14
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 24
+[01-Jun-2023 16:14:48 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 25
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 11
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 12
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 13
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_stmt_affected_rows() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 14
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 24
+[01-Jun-2023 16:18:35 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 25
+[01-Jun-2023 16:19:27 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:19:27 America/Mexico_City] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 11
+[01-Jun-2023 16:19:27 America/Mexico_City] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 12
+[01-Jun-2023 16:19:27 America/Mexico_City] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 13
+[01-Jun-2023 16:19:27 America/Mexico_City] PHP Warning:  mysqli_stmt_affected_rows() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 14
+[01-Jun-2023 16:19:27 America/Mexico_City] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 24
+[01-Jun-2023 16:19:27 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 25
+[01-Jun-2023 16:19:28 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:19:28 America/Mexico_City] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 11
+[01-Jun-2023 16:19:28 America/Mexico_City] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 12
+[01-Jun-2023 16:19:28 America/Mexico_City] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 13
+[01-Jun-2023 16:19:28 America/Mexico_City] PHP Warning:  mysqli_stmt_affected_rows() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 14
+[01-Jun-2023 16:19:28 America/Mexico_City] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 24
+[01-Jun-2023 16:19:28 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 25
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 11
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 12
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 13
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_stmt_affected_rows() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 14
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 24
+[01-Jun-2023 16:28:14 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 25
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 11
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 12
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 13
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_stmt_affected_rows() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 14
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 24
+[01-Jun-2023 16:28:36 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 25
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hlsoluti/public_html/app/php/conexion.php on line 6
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 11
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 12
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 13
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_stmt_affected_rows() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 14
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/hlsoluti/public_html/app/php/insertar.php on line 24
+[01-Jun-2023 16:30:25 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hlsoluti/public_html/app/php/insertar.php on line 25

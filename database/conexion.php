@@ -4,10 +4,10 @@ class Conexion {
 
     public function getConexion(){
      try {
-           $host = "localhost";   //127.0.0.1  localhost
-           $db = "mabe";        //base de datos de mysql
-           $user = "root";        //usuario de mysql
-           $password = "";        //contraseña de mysql
+           $host = "67.217.34.84";   //127.0.0.1  localhost
+           $db = "hlsoluti_owm838";        //base de datos de mysql
+           $user = "hlsoluti";        //usuario de mysql
+           $password = "elchaneque2012";        //contraseña de mysql
            $db = new PDO("mysql:host=$host;dbname=$db;",$user, $password);
            return $db;
 
@@ -16,6 +16,6 @@ class Conexion {
             die(); 
          }  
   }
-
 }
 ?>
+
